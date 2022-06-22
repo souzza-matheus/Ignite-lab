@@ -1,8 +1,9 @@
+import { Event } from "./pages/Event"
 
 function App() {
 
   return (
-    <h2>Hello world</h2>
+    <Event />
   )
 }
 
